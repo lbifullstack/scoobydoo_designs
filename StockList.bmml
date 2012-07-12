@@ -1,0 +1,35 @@
+<mockup version="1.0" skin="sketch" measuredW="1320" measuredH="742" mockupW="1260" mockupH="722">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="60" y="20" w="678" h="722" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Scooby%20Do</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Menu" x="1170" y="178" w="-1" h="-1" measuredW="150" measuredH="167" zOrder="1" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MenuBar" x="60" y="41" w="678" h="29" measuredW="106" measuredH="29" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <text>Stock</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::TitleWindow" x="95" y="117" w="574" h="535" measuredW="450" measuredH="400" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Stock%20List</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::DataGrid" x="110" y="275" w="544" h="338" measuredW="344" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Code%20%2C%20Description%20%2C%20Qty%20%2C%20Allocated%20%2C%20BackOrdered</text>
+        <verticalScrollbar>true</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::FieldSet" x="110" y="152" w="311" h="108" measuredW="200" measuredH="170" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::RadioButtonGroup" x="124" y="178" w="92" h="67" measuredW="92" measuredH="63" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%28o%29%20Code%0A%20%0A%28%20%29%20Description</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextInput" x="245" y="178" w="149" h="-1" measuredW="79" measuredH="27" zOrder="7" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::TextInput" x="245" y="218" w="149" h="-1" measuredW="79" measuredH="27" zOrder="8" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
